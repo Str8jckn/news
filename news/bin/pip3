@@ -1,4 +1,4 @@
-#!/home/ramira/Code/SDGKU/news/news/bin/python3
+#!/Users/RETURNoftheMAC/Code/SDGKU/raven/news/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
